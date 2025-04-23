@@ -1,6 +1,5 @@
 # semantic_database_for_monghaengrok
 
-# semantic_database_for_monghaengrok
 # 몽행록 시맨틱 그래프 데이터베이스 / Semantic Graph Database for Monghaengrok
 
 이 저장소는 불가 유람기 ｢몽행록｣의 시맨틱 구조를 Neo4j 그래프 데이터베이스로 구축한 결과물을 공유합니다.  
