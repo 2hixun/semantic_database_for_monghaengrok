@@ -1,0 +1,1091 @@
+source class,source id,target class,target id,relation,relation attribute,note,remark,S_check,T_Check
+Record,설담집,Work,SD0087,hasPart,,,,O,O
+Record,설담집,Time,1784년,isPublishedAt,,,,O,O
+Work,SD0087,Monk,설담 자우,hasWriter,,,,O,O
+Record,설담집,Work,SD0031,hasPart,,,,O,O
+Record,설담집,Work,SD0032,hasPart,,,,O,O
+Record,설담집,Work,SD0053,hasPart,,,,O,O
+Record,설담집,Work,SD0054,hasPart,,,,O,O
+Record,설담집,Work,SD0003,hasPart,,,,O,O
+Record,설담집,Work,SD0042,hasPart,,,,O,O
+Record,설담집,Work,SD0072,hasPart,,,,O,O
+Record,설담집,Work,SD0089,hasPart,,,,O,O
+Record,설담집,Work,SD0058,hasPart,,,,O,O
+Record,설담집,Work,SD0073,hasPart,,,,O,O
+Record,설담집,Work,SD0075,hasPart,,,,O,O
+Record,설담집,Work,SD0088,hasPart,,,,O,O
+Work,SD0087,Time,1763년,isWrittenAt,,,,O,O
+Work,SD0075,Time,1768년,isWrittenAt,,,,O,O
+Work,SD0031,Monk,설담 자우,hasWriter,,,,O,O
+Work,SD0032,Person,김담,hasWriter,,,,O,O
+Work,SD0031,Work,SD0032,rhymesWith,,,,O,O
+Work,SD0053,Monk,설담 자우,hasWriter,,,,O,O
+Work,SD0053,Monk,설담 자우,hasSender,,,,O,O
+Work,SD0053,Person,김담,hasRecipient,,,,O,O
+Work,SD0054,Monk,설담 자우,hasWriter,,,,O,O
+Work,SD0054,Monk,설담 자우,hasSender,,,,O,O
+Work,SD0054,Person,김담,hasRecipient,,,,O,O
+Work,SD0003,Person,김복현,hasWriter,,,,O,O
+Work,SD0003,Time,1773년 8월,isWrittenAt,,,,O,O
+Work,SD0042,Monk,설담 자우,hasWriter,,,,O,O
+Work,SD0072,Monk,설담 자우,hasWriter,,,,O,O
+Work,SD0072,Monk,설담 자우,hasSender,,,,O,O
+Work,SD0072,Person,김복현,hasRecipient,,,,O,O
+Work,SD0089,Person,김복현,hasWriter,,,,O,O
+Work,SD0058,Monk,설담 자우,hasWriter,,,,O,O
+Work,SD0058,Monk,설담 자우,hasSender,,,,O,O
+Work,SD0058,Monk,이봉 희영,hasRecipient,,,,O,O
+Work,SD0073,Monk,설담 자우,hasWriter,,,,O,O
+Work,SD0073,Monk,설담 자우,hasSender,,,,O,O
+Work,SD0073,Monk,설파 상언,hasRecipient,,,,O,O
+Work,SD0075,Monk,설담 자우,hasWriter,,,,O,O
+Work,SD0075,Monk,설담 자우,hasSender,,,,O,O
+Work,SD0075,Monk,연담 유일,hasRecipient,,,,O,O
+Work,SD0088,Person,이의경,hasWriter,,,,O,O
+Work,SD0088,Time,1770년 9월,isWrittenAt,,,,O,O
+Time,1763년,Time,1763년 8월,hasPart,,,,O,O
+Time,1763년,Time,1763년 9월,hasPart,,,,O,O
+Time,1763년 8월,Time,1763년 8월 27일,hasPart,,,,O,O
+Time,1763년 8월,Time,1763년 8월 28일,hasPart,,,,O,O
+Time,1763년 8월,Time,1763년 8월 29일,hasPart,,,,O,O
+Time,1763년 8월,Time,1763년 8월 30일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 1일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 2일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 3일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 4일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 5일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 6일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 7일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 8일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 9일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 10일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 11일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 12일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 13일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 14일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 15일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 16일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 17일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 18일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 19일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 20일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 21일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 22일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 23일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 24일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 25일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 26일,hasPart,,,,O,O
+Time,1763년 9월,Time,1763년 9월 27일,hasPart,,,,O,O
+Time,1773년,Time,1773년 8월,hasPart,,,,O,O
+Time,1770년,Time,1770년 9월,hasPart,,,,O,O
+Work,SD0087,Journey,J17630827,contains,,,,O,O
+Work,SD0087,Journey,J17630829,contains,,,,O,O
+Work,SD0087,Journey,J17630830,contains,,,,O,O
+Work,SD0087,Journey,J17630901,contains,,,,O,O
+Work,SD0087,Journey,J17630902,contains,,,,O,O
+Work,SD0087,Journey,J17630903,contains,,,,O,O
+Work,SD0087,Journey,J17630904,contains,,,,O,O
+Work,SD0087,Journey,J17630905,contains,,,,O,O
+Work,SD0087,Journey,J17630906,contains,,,,O,O
+Work,SD0087,Journey,J17630907,contains,,,,O,O
+Work,SD0087,Journey,J17630909,contains,,,,O,O
+Work,SD0087,Journey,J17630910,contains,,,,O,O
+Work,SD0087,Journey,J17630911,contains,,,,O,O
+Work,SD0087,Journey,J17630912,contains,,,,O,O
+Work,SD0087,Journey,J17630913,contains,,,,O,O
+Work,SD0087,Journey,J17630914,contains,,,,O,O
+Work,SD0087,Journey,J17630915,contains,,,,O,O
+Work,SD0087,Journey,J17630917,contains,,,,O,O
+Work,SD0087,Journey,J17630918,contains,,,,O,O
+Work,SD0087,Journey,J17630919,contains,,,,O,O
+Work,SD0087,Journey,J17630920,contains,,,,O,O
+Work,SD0087,Journey,J17630921,contains,,,,O,O
+Work,SD0087,Journey,J17630922,contains,,,,O,O
+Work,SD0087,Journey,J17630923,contains,,,,O,O
+Work,SD0087,Journey,J17630924,contains,,,,O,O
+Work,SD0087,Journey,J17630925,contains,,,,O,O
+Work,SD0087,Journey,J17630926,contains,,,,O,O
+Work,SD0087,Journey,J17630927,contains,,,,O,O
+Work,SD0087,Entry,E008701,contains,,,,O,O
+Work,SD0087,Entry,E008702,contains,,,,O,O
+Work,SD0087,Entry,E008703,contains,,,,O,O
+Work,SD0087,Entry,E008704,contains,,,,O,O
+Work,SD0087,Entry,E008705,contains,,,,O,O
+Work,SD0087,Entry,E008706,contains,,,,O,O
+Work,SD0087,Entry,E008707,contains,,,,O,O
+Work,SD0087,Entry,E008708,contains,,,,O,O
+Work,SD0087,Entry,E008709,contains,,,,O,O
+Work,SD0087,Entry,E008710,contains,,,,O,O
+Work,SD0087,Entry,E008711,contains,,,,O,O
+Work,SD0087,Entry,E008712,contains,,,,O,O
+Work,SD0087,Entry,E008713,contains,,,,O,O
+Work,SD0087,Entry,E008714,contains,,,,O,O
+Work,SD0087,Entry,E008715,contains,,,,O,O
+Work,SD0087,Entry,E008716,contains,,,,O,O
+Work,SD0087,Entry,E008717,contains,,,,O,O
+Work,SD0087,Entry,E008718,contains,,,,O,O
+Work,SD0087,Entry,E008719,contains,,,,O,O
+Work,SD0087,Entry,E008720,contains,,,,O,O
+Work,SD0087,Entry,E008721,contains,,,,O,O
+Work,SD0087,Entry,E008722,contains,,,,O,O
+Work,SD0087,Entry,E008723,contains,,,,O,O
+Work,SD0087,Entry,E008724,contains,,,,O,O
+Work,SD0087,Entry,E008725,contains,,,,O,O
+Work,SD0087,Entry,E008726,contains,,,,O,O
+Work,SD0087,Entry,E008727,contains,,,,O,O
+Work,SD0087,Entry,E008728,contains,,,,O,O
+Work,SD0087,Entry,E008729,contains,,,,O,O
+Work,SD0087,Entry,E008730,contains,,,,O,O
+Work,SD0087,Entry,E008731,contains,,,,O,O
+Work,SD0087,Entry,E008732,contains,,,,O,O
+Work,SD0087,Entry,E008733,contains,,,,O,O
+Work,SD0087,Entry,E008734,contains,,,,O,O
+Work,SD0087,Entry,E008735,contains,,,,O,O
+Work,SD0087,Entry,E008736,contains,,,,O,O
+Work,SD0087,Entry,E008737,contains,,,,O,O
+Work,SD0087,Entry,E008738,contains,,,,O,O
+Work,SD0087,Entry,E008739,contains,,,,O,O
+Work,SD0087,Entry,E008740,contains,,,,O,O
+Work,SD0087,Entry,E008741,contains,,,,O,O
+Work,SD0087,Entry,E008742,contains,,,,O,O
+Work,SD0087,Entry,E008743,contains,,,,O,O
+Work,SD0087,Entry,E008744,contains,,,,O,O
+Work,SD0087,Entry,E008745,contains,,,,O,O
+Work,SD0087,Entry,E008746,contains,,,,O,O
+Work,SD0087,Entry,E008747,contains,,,,O,O
+Work,SD0087,Entry,E008748,contains,,,,O,O
+Work,SD0087,Entry,E008749,contains,,,,O,O
+Work,SD0087,Entry,E008750,contains,,,,O,O
+Work,SD0087,Entry,E008751,contains,,,,O,O
+Work,SD0087,Entry,E008752,contains,,,,O,O
+Work,SD0087,Entry,E008753,contains,,,,O,O
+Work,SD0087,Entry,E008754,contains,,,,O,O
+Work,SD0087,Entry,E008755,contains,,,,O,O
+Work,SD0087,Entry,E008756,contains,,,,O,O
+Work,SD0087,Entry,E008757,contains,,,,O,O
+Work,SD0087,Entry,E008758,contains,,,,O,O
+Work,SD0087,Entry,E008759,contains,,,,O,O
+Work,SD0087,Entry,E008760,contains,,,,O,O
+Work,SD0087,Entry,E008761,contains,,,,O,O
+Work,SD0087,Entry,E008762,contains,,,,O,O
+Work,SD0087,Entry,E008763,contains,,,,O,O
+Work,SD0087,Entry,E008764,contains,,,,O,O
+Work,SD0087,Entry,E008765,contains,,,,O,O
+Work,SD0087,Entry,E008766,contains,,,,O,O
+Work,SD0087,Entry,E008767,contains,,,,O,O
+Work,SD0087,Entry,E008768,contains,,,,O,O
+Work,SD0087,Entry,E008769,contains,,,,O,O
+Work,SD0087,Entry,E008770,contains,,,,O,O
+Work,SD0087,Entry,E008771,contains,,,,O,O
+Work,SD0087,Entry,E008772,contains,,,,O,O
+Work,SD0087,Entry,E008773,contains,,,,O,O
+Work,SD0087,Entry,E008774,contains,,,,O,O
+Work,SD0087,Entry,E008775,contains,,,,O,O
+Work,SD0087,Entry,E008776,contains,,,,O,O
+Work,SD0087,Entry,E008777,contains,,,,O,O
+Work,SD0087,Entry,E008778,contains,,,,O,O
+Work,SD0087,Entry,E008779,contains,,,,O,O
+Work,SD0087,Entry,E008780,contains,,,,O,O
+Work,SD0087,Entry,E008781,contains,,,,O,O
+Work,SD0087,Entry,E008782,contains,,,,O,O
+Work,SD0087,Entry,E008783,contains,,,,O,O
+Work,SD0087,Entry,E008784,contains,,,,O,O
+Work,SD0087,Entry,E008785,contains,,,,O,O
+Journey,J17630827,Entry,E008702,contains,,,,O,O
+Journey,J17630827,Entry,E008703,contains,,,,O,O
+Journey,J17630829,Entry,E008704,contains,,,,O,O
+Journey,J17630829,Entry,E008705,contains,,,,O,O
+Journey,J17630830,Entry,E008706,contains,,,,O,O
+Journey,J17630901,Entry,E008707,contains,,,,O,O
+Journey,J17630901,Entry,E008708,contains,,,,O,O
+Journey,J17630901,Entry,E008709,contains,,,,O,O
+Journey,J17630901,Entry,E008710,contains,,,,O,O
+Journey,J17630902,Entry,E008711,contains,,,,O,O
+Journey,J17630902,Entry,E008712,contains,,,,O,O
+Journey,J17630902,Entry,E008713,contains,,,,O,O
+Journey,J17630903,Entry,E008714,contains,,,,O,O
+Journey,J17630903,Entry,E008715,contains,,,,O,O
+Journey,J17630904,Entry,E008716,contains,,,,O,O
+Journey,J17630904,Entry,E008717,contains,,,,O,O
+Journey,J17630904,Entry,E008718,contains,,,,O,O
+Journey,J17630904,Entry,E008719,contains,,,,O,O
+Journey,J17630904,Entry,E008720,contains,,,,O,O
+Journey,J17630904,Entry,E008721,contains,,,,O,O
+Journey,J17630905,Entry,E008722,contains,,,,O,O
+Journey,J17630905,Entry,E008723,contains,,,,O,O
+Journey,J17630905,Entry,E008724,contains,,,,O,O
+Journey,J17630905,Entry,E008725,contains,,,,O,O
+Journey,J17630905,Entry,E008726,contains,,,,O,O
+Journey,J17630905,Entry,E008727,contains,,,,O,O
+Journey,J17630905,Entry,E008728,contains,,,,O,O
+Journey,J17630905,Entry,E008729,contains,,,,O,O
+Journey,J17630905,Entry,E008730,contains,,,,O,O
+Journey,J17630906,Entry,E008731,contains,,,,O,O
+Journey,J17630906,Entry,E008732,contains,,,,O,O
+Journey,J17630906,Entry,E008733,contains,,,,O,O
+Journey,J17630907,Entry,E008734,contains,,,,O,O
+Journey,J17630907,Entry,E008735,contains,,,,O,O
+Journey,J17630909,Entry,E008736,contains,,,,O,O
+Journey,J17630909,Entry,E008737,contains,,,,O,O
+Journey,J17630910,Entry,E008738,contains,,,,O,O
+Journey,J17630910,Entry,E008739,contains,,,,O,O
+Journey,J17630911,Entry,E008740,contains,,,,O,O
+Journey,J17630911,Entry,E008741,contains,,,,O,O
+Journey,J17630911,Entry,E008742,contains,,,,O,O
+Journey,J17630912,Entry,E008743,contains,,,,O,O
+Journey,J17630912,Entry,E008744,contains,,,,O,O
+Journey,J17630912,Entry,E008745,contains,,,,O,O
+Journey,J17630913,Entry,E008746,contains,,,,O,O
+Journey,J17630913,Entry,E008747,contains,,,,O,O
+Journey,J17630914,Entry,E008748,contains,,,,O,O
+Journey,J17630915,Entry,E008749,contains,,,,O,O
+Journey,J17630917,Entry,E008750,contains,,,,O,O
+Journey,J17630917,Entry,E008751,contains,,,,O,O
+Journey,J17630918,Entry,E008752,contains,,,,O,O
+Journey,J17630919,Entry,E008753,contains,,,,O,O
+Journey,J17630919,Entry,E008754,contains,,,,O,O
+Journey,J17630919,Entry,E008755,contains,,,,O,O
+Journey,J17630919,Entry,E008756,contains,,,,O,O
+Journey,J17630919,Entry,E008757,contains,,,,O,O
+Journey,J17630919,Entry,E008758,contains,,,,O,O
+Journey,J17630919,Entry,E008759,contains,,,,O,O
+Journey,J17630919,Entry,E008760,contains,,,,O,O
+Journey,J17630920,Entry,E008761,contains,,,,O,O
+Journey,J17630920,Entry,E008762,contains,,,,O,O
+Journey,J17630920,Entry,E008763,contains,,,,O,O
+Journey,J17630920,Entry,E008764,contains,,,,O,O
+Journey,J17630920,Entry,E008765,contains,,,,O,O
+Journey,J17630920,Entry,E008766,contains,,,,O,O
+Journey,J17630920,Entry,E008767,contains,,,,O,O
+Journey,J17630921,Entry,E008768,contains,,,,O,O
+Journey,J17630921,Entry,E008769,contains,,,,O,O
+Journey,J17630921,Entry,E008770,contains,,,,O,O
+Journey,J17630922,Entry,E008771,contains,,,,O,O
+Journey,J17630922,Entry,E008772,contains,,,,O,O
+Journey,J17630923,Entry,E008773,contains,,,,O,O
+Journey,J17630923,Entry,E008774,contains,,,,O,O
+Journey,J17630924,Entry,E008775,contains,,,,O,O
+Journey,J17630924,Entry,E008776,contains,,,,O,O
+Journey,J17630924,Entry,E008777,contains,,,,O,O
+Journey,J17630925,Entry,E008778,contains,,,,O,O
+Journey,J17630925,Entry,E008779,contains,,,,O,O
+Journey,J17630925,Entry,E008780,contains,,,,O,O
+Journey,J17630926,Entry,E008781,contains,,,,O,O
+Journey,J17630926,Entry,E008782,contains,,,,O,O
+Journey,J17630927,Entry,E008783,contains,,,,O,O
+Journey,J17630927,Entry,E008784,contains,,,,O,O
+Journey,J17630827,Time,1763년 8월 27일,occursAt,,,,O,O
+Journey,J17630829,Time,1763년 8월 29일,occursAt,,,,O,O
+Journey,J17630830,Time,1763년 8월 30일,occursAt,,,,O,O
+Journey,J17630901,Time,1763년 9월 1일,occursAt,,,,O,O
+Journey,J17630902,Time,1763년 9월 2일,occursAt,,,,O,O
+Journey,J17630903,Time,1763년 9월 3일,occursAt,,,,O,O
+Journey,J17630904,Time,1763년 9월 4일,occursAt,,,,O,O
+Journey,J17630905,Time,1763년 9월 5일,occursAt,,,,O,O
+Journey,J17630906,Time,1763년 9월 6일,occursAt,,,,O,O
+Journey,J17630907,Time,1763년 9월 7일,occursAt,,,,O,O
+Journey,J17630909,Time,1763년 9월 9일,occursAt,,,,O,O
+Journey,J17630910,Time,1763년 9월 10일,occursAt,,,,O,O
+Journey,J17630911,Time,1763년 9월 11일,occursAt,,,,O,O
+Journey,J17630912,Time,1763년 9월 12일,occursAt,,,,O,O
+Journey,J17630913,Time,1763년 9월 13일,occursAt,,,,O,O
+Journey,J17630914,Time,1763년 9월 14일,occursAt,,,,O,O
+Journey,J17630915,Time,1763년 9월 15일,occursAt,,,,O,O
+Journey,J17630917,Time,1763년 9월 17일,occursAt,,,,O,O
+Journey,J17630918,Time,1763년 9월 18일,occursAt,,,,O,O
+Journey,J17630919,Time,1763년 9월 19일,occursAt,,,,O,O
+Journey,J17630920,Time,1763년 9월 20일,occursAt,,,,O,O
+Journey,J17630921,Time,1763년 9월 21일,occursAt,,,,O,O
+Journey,J17630922,Time,1763년 9월 22일,occursAt,,,,O,O
+Journey,J17630923,Time,1763년 9월 23일,occursAt,,,,O,O
+Journey,J17630924,Time,1763년 9월 24일,occursAt,,,,O,O
+Journey,J17630925,Time,1763년 9월 25일,occursAt,,,,O,O
+Journey,J17630926,Time,1763년 9월 26일,occursAt,,,,O,O
+Journey,J17630927,Time,1763년 9월 27일,occursAt,,,,O,O
+Journey,J17630827,Place,만일동,visits,,,,O,O
+Journey,J17630827,Temple,순창 법운암,visits,유숙,,,O,O
+Journey,J17630829,Place,두곡,visits,유숙,,,O,O
+Journey,J17630830,Temple,정읍 상두사,visits,유숙,,,O,O
+Journey,J17630901,Temple,김제 금산사,visits,,,,O,O
+Journey,J17630901,Temple,김제 금산사 송대,visits,,,,O,O
+Journey,J17630901,Temple,감로암,visits,,,,O,O
+Journey,J17630901,Temple,감로암 비전,visits,,,,O,O
+Journey,J17630901,Temple,은격암,visits,유숙,,,O,O
+Journey,J17630902,Place,국사봉,visits,,,,O,O
+Journey,J17630902,Place,완부시,visits,,,,O,O
+Journey,J17630902,Place,완부치첩,visits,,,,O,O
+Journey,J17630902,Place,전주 경기전,visits,,,,O,O
+Journey,J17630902,Place,완부 서문,visits,유숙,,,O,O
+Journey,J17630903,Place,양정포,visits,,,,O,O
+Journey,J17630903,Place,옥포역,visits,,,,O,O
+Journey,J17630903,Place,구좌리,visits,유숙,,,O,O
+Journey,J17630904,Temple,완주 화암사,visits,,,,O,O
+Journey,J17630904,Temple,완주 화암사 우화루,visits,,,,O,O
+Journey,J17630904,Temple,완주 화암사 향각,visits,유숙,,,O,O
+Journey,J17630904,Temple,완주 화암사 의상암,visits,,,,O,O
+Journey,J17630904,Temple,완주 화암사 윤필암,visits,유숙,,,O,O
+Journey,J17630905,Temple,완주 화암사 신실,visits,,,,O,O
+Journey,J17630905,Temple,완주 안심사,visits,,,,O,O
+Journey,J17630905,Temple,완주 안심사 사리각,visits,,,,O,O
+Journey,J17630905,Temple,완주 안심사 적설루,visits,,,,O,O
+Journey,J17630905,Temple,완주 안심사 향각,visits,,,,O,O
+Journey,J17630905,Temple,완주 안심사 한산전,visits,,,,O,O
+Journey,J17630905,Temple,완주 백운암,visits,,,,O,O
+Journey,J17630905,Temple,득모암,visits,,,,O,O
+Journey,J17630905,Place,만경대,visits,,,,O,O
+Journey,J17630905,Temple,행도암,visits,,,,O,O
+Journey,J17630905,Place,마정령,visits,,,,O,O
+Journey,J17630905,Temple,중봉암,visits,유숙,,,O,O
+Journey,J17630906,Temple,허통암,visits,,,,O,O
+Journey,J17630906,Place,마천대,visits,,,,O,O
+Journey,J17630906,Temple,완주 대둔암,visits,유숙,,,O,O
+Journey,J17630907,Temple,대은암,visits,유숙,,,O,O
+Journey,J17630909,Place,진산읍,visits,유숙,,,O,O
+Journey,J17630910,Place,천등산,visits,,,,O,O
+Journey,J17630910,Temple,완주 신흥사,visits,유숙,,,O,O
+Journey,J17630911,Temple,운문사,visits,,,,O,O
+Journey,J17630911,Temple,운문사 서굴,visits,유숙,,,O,O
+Journey,J17630912,Temple,내둔암,visits,,,,O,O
+Journey,J17630912,Place,위봉성 동문,visits,,,,O,O
+Journey,J17630912,Temple,북암,visits,유숙,,,O,O
+Journey,J17630913,Temple,완주 송광사,visits,유숙,,,O,O
+Journey,J17630914,Place,삼천,visits,유숙,,,O,O
+Journey,J17630915,Place,시산,visits,유숙,,,O,O
+Journey,J17630917,Place,피향정,visits,,,,O,O
+Journey,J17630917,Place,고부 마항리,visits,유숙,,,O,O
+Journey,J17630918,Temple,부안 개암사,visits,유숙,,,O,O
+Journey,J17630919,Temple,부안 도솔암,visits,,,,O,O
+Journey,J17630919,Temple,우금굴,visits,,,,O,O
+Journey,J17630919,Place,청림촌,visits,,,,O,O
+Journey,J17630919,Place,사자항,visits,,,,O,O
+Journey,J17630919,Place,삼폭포,visits,,,,O,O
+Journey,J17630919,Temple,부안 월명암,visits,유숙,,,O,O
+Journey,J17630920,Temple,월정대,visits,,,,O,O
+Journey,J17630920,Temple,부안 실상사,visits,,,,O,O
+Journey,J17630920,Place,직연폭포,visits,,,,O,O
+Journey,J17630920,Temple,남암,visits,,,,O,O
+Journey,J17630920,Temple,부안 사자암,visits,,,,O,O
+Journey,J17630920,Temple,벽송대,visits,,,,O,O
+Journey,J17630920,Temple,취연대,visits,유숙,,,O,O
+Journey,J17630921,Temple,부안 내소사,visits,,,,O,O
+Journey,J17630921,Place,검진,visits,,,,O,O
+Journey,J17630921,Place,구수골,visits,유숙,,,O,O
+Journey,J17630922,Temple,구월암,visits,,,,O,O
+Journey,J17630922,Place,개심령,visits,,,,O,O
+Journey,J17630922,Place,내장산,visits,유숙,,,O,O
+Journey,J17630923,Place,하서 선생 수장,visits,,,,O,O
+Journey,J17630923,Place,자포곡,visits,,,,O,O
+Journey,J17630923,Place,백양산 청류동,visits,유숙,,,O,O
+Journey,J17630924,Temple,동암 청심대,visits,,,,O,O
+Journey,J17630924,Temple,장성 운문암,visits,,,,O,O
+Journey,J17630924,Temple,장성 백양사 백련암,visits,유숙,,,O,O
+Journey,J17630925,Temple,장성 백양사,visits,,,,O,O
+Journey,J17630925,Temple,장성 백양사 쌍계루,visits,,,,O,O
+Journey,J17630925,Temple,장성 백양사 향각,visits,,,,O,O
+Journey,J17630925,Temple,장성 천진암,visits,유숙,,,O,O
+Journey,J17630926,Place,칠립리,visits,,,,O,O
+Journey,J17630926,Place,천치,visits,유숙,,,O,O
+Journey,J17630927,Place,온계,visits,,,,O,O
+Journey,J17630927,Temple,순창 강천사,visits,유숙,,,O,O
+Place,만일동,Place,순창 법운암,movesTo,,,,O,O
+Temple,순창 법운암,Place,두곡,movesTo,,,,O,O
+Place,두곡,Temple,정읍 상두사,movesTo,,,,O,O
+Temple,정읍 상두사,Temple,김제 금산사,movesTo,,,,O,O
+Temple,김제 금산사,Temple,김제 금산사 송대,movesTo,,,,O,O
+Temple,김제 금산사 송대,Temple,감로암,movesTo,,,,O,O
+Temple,감로암,Temple,감로암 비전,movesTo,,,,O,O
+Temple,감로암 비전,Temple,은격암,movesTo,,,,O,O
+Temple,은격암,Place,국사봉,movesTo,,,,O,O
+Place,국사봉,Place,완부시,movesTo,,,,O,O
+Place,완부시,Place,완부치첩,movesTo,,,,O,O
+Place,완부치첩,Place,전주 경기전,movesTo,,,,O,O
+Place,전주 경기전,Place,완부 서문,movesTo,,,,O,O
+Place,완부 서문,Place,양정포,movesTo,,,,O,O
+Place,양정포,Place,옥포역,movesTo,,,,O,O
+Place,옥포역,Place,구좌리,movesTo,,,,O,O
+Place,구좌리,Temple,완주 화암사,movesTo,,,,O,O
+Temple,완주 화암사,Temple,완주 화암사 우화루,movesTo,,,,O,O
+Temple,완주 화암사 우화루,Temple,완주 화암사 향각,movesTo,,,,O,O
+Temple,완주 화암사 향각,Temple,완주 화암사 의상암,movesTo,,,,O,O
+Temple,완주 화암사 의상암,Temple,완주 화암사 윤필암,movesTo,,,,O,O
+Temple,완주 화암사 윤필암,Temple,완주 화암사 신실,movesTo,,,,O,O
+Temple,완주 화암사 신실,Temple,완주 안심사,movesTo,,,,O,O
+Temple,완주 안심사,Temple,완주 안심사 사리각,movesTo,,,,O,O
+Temple,완주 안심사 사리각,Temple,완주 안심사 적설루,movesTo,,,,O,O
+Temple,완주 안심사 적설루,Temple,완주 안심사 향각,movesTo,,,,O,O
+Temple,완주 안심사 향각,Temple,완주 안심사 한산전,movesTo,,,,O,O
+Temple,완주 안심사 한산전,Temple,완주 백운암,movesTo,,,,O,O
+Temple,완주 백운암,Temple,득모암,movesTo,,,,O,O
+Temple,득모암,Place,만경대,movesTo,,,,O,O
+Place,만경대,Temple,행도암,movesTo,,,,O,O
+Temple,행도암,Place,마정령,movesTo,,,,O,O
+Place,마정령,Temple,중봉암,movesTo,,,,O,O
+Temple,중봉암,Temple,허통암,movesTo,,,,O,O
+Temple,허통암,Place,마천대,movesTo,,,,O,O
+Place,마천대,Temple,완주 대둔암,movesTo,,,,O,O
+Temple,완주 대둔암,Temple,대은암,movesTo,,,,O,O
+Temple,대은암,Place,진산읍,movesTo,,,,O,O
+Place,진산읍,Place,천등산,movesTo,,,,O,O
+Place,천등산,Temple,완주 신흥사,movesTo,,,,O,O
+Temple,완주 신흥사,Temple,운문사,movesTo,,,,O,O
+Temple,운문사,Temple,운문사 서굴,movesTo,,,,O,O
+Temple,운문사 서굴,Temple,내둔암,movesTo,,,,O,O
+Temple,내둔암,Place,위봉성 동문,movesTo,,,,O,O
+Place,위봉성 동문,Temple,북암,movesTo,,,,O,O
+Temple,북암,Temple,완주 송광사,movesTo,,,,O,O
+Temple,완주 송광사,Place,삼천,movesTo,,,,O,O
+Place,삼천,Place,시산,movesTo,,,,O,O
+Place,시산,Place,피향정,movesTo,,,,O,O
+Place,피향정,Place,고부 마항리,movesTo,,,,O,O
+Place,고부 마항리,Temple,부안 개암사,movesTo,,,,O,O
+Temple,부안 개암사,Temple,부안 도솔암,movesTo,,,,O,O
+Temple,부안 도솔암,Temple,우금굴,movesTo,,,,O,O
+Temple,우금굴,Place,청림촌,movesTo,,,,O,O
+Place,청림촌,Place,사자항,movesTo,,,,O,O
+Place,사자항,Place,삼폭포,movesTo,,,,O,O
+Place,삼폭포,Temple,부안 월명암,movesTo,,,,O,O
+Temple,부안 월명암,Temple,월정대,movesTo,,,,O,O
+Temple,월정대,Temple,부안 실상사,movesTo,,,,O,O
+Temple,부안 실상사,Place,직연폭포,movesTo,,,,O,O
+Place,직연폭포,Temple,남암,movesTo,,,,O,O
+Temple,남암,Temple,부안 사자암,movesTo,,,,O,O
+Temple,부안 사자암,Temple,벽송대,movesTo,,,,O,O
+Temple,벽송대,Temple,취연대,movesTo,,,,O,O
+Temple,취연대,Temple,부안 내소사,movesTo,,,,O,O
+Temple,부안 내소사,Place,검진,movesTo,,,,O,O
+Place,검진,Place,구수골,movesTo,,,,O,O
+Place,구수골,Temple,구월암,movesTo,,,,O,O
+Temple,구월암,Place,개심령,movesTo,,,,O,O
+Place,개심령,Place,내장산,movesTo,,,,O,O
+Place,내장산,Place,하서 선생 수장,movesTo,,,,O,O
+Place,하서 선생 수장,Place,자포곡,movesTo,,,,O,O
+Place,자포곡,Place,백양산 청류동,movesTo,,,,O,O
+Place,백양산 청류동,Temple,동암 청심대,movesTo,,,,O,O
+Temple,동암 청심대,Temple,장성 운문암,movesTo,,,,O,O
+Temple,장성 운문암,Temple,장성 백양사 백련암,movesTo,,,,O,O
+Temple,장성 백양사 백련암,Temple,장성 백양사,movesTo,,,,O,O
+Temple,장성 백양사,Temple,장성 백양사 쌍계루,movesTo,,,,O,O
+Temple,장성 백양사 쌍계루,Temple,장성 백양사 향각,movesTo,,,,O,O
+Temple,장성 백양사 향각,Temple,장성 천진암,movesTo,,,,O,O
+Temple,장성 천진암,Place,칠립리,movesTo,,,,O,O
+Place,칠립리,Place,천치,movesTo,,,,O,O
+Place,천치,Place,온계,movesTo,,,,O,O
+Place,온계,Temple,순창 강천사,mentions,,,,O,O
+Entry,E008702,Place,만일동,mentions,,,,O,O
+Entry,E008704,Temple,순창 법운암,mentions,,,,O,O
+Entry,E008704,Monk,기,mentions,,,,O,O
+Entry,E008704,Monk,우,mentions,,,,O,O
+Entry,E008704,Monk,총,mentions,,,,O,O
+Entry,E008704,Monk,혜,mentions,,,,O,O
+Entry,E008704,Monk,정,mentions,,,,O,O
+Entry,E008704,Event,설담이 다섯 승려의 배웅을 받아 떠남,mentions,,,,O,O
+Entry,E008705,Place,두곡,mentions,,,,O,O
+Entry,E008706,Temple,정읍 상두사,mentions,,,,O,O
+Entry,E008706,Temple,두월 묵안,mentions,,,,O,O
+Entry,E008706,Temple,완주 화암사,mentions,,,,O,O
+Entry,E008706,Event,설담이 두월 묵안을 만남,mentions,,,,O,O
+Entry,E008707,Temple,김제 금산사,mentions,,,,O,O
+Entry,E008707,Monk,금파,mentions,,,,O,O
+Entry,E008707,Monk,연파 성활,mentions,,,,O,O
+Entry,E008707,Monk,세환,mentions,,,,O,O
+Entry,E008707,Monk,야학,mentions,,,,O,O
+Entry,E008707,Temple,망휴암,mentions,,,,O,O
+Entry,E008707,Temple,망휴암 장륙전,mentions,,,,O,O
+Entry,E008707,Event,설담이 하안거를 지냄_1,mentions,,,,O,O
+Entry,E008708,Temple,김제 금산사 송대,mentions,,,,O,O
+Entry,E008708,Temple,감로암,mentions,,,,O,O
+Entry,E008708,Monk,낙파 회랭,mentions,,,,O,O
+Entry,E008708,Event,설담이 낙파 회랭을 만남,mentions,,,,O,O
+Entry,E008709,Temple,감로암 비전,mentions,,,,O,O
+Entry,E008709,Temple,은격암,mentions,,,,O,O
+Entry,E008709,Monk,벽월 우일,mentions,,,,O,O
+Entry,E008709,Monk,두월 묵안,mentions,,,,O,O
+Entry,E008709,Event,설담이 벽월 우일을 만남,mentions,,,,O,O
+Entry,E008710,Place,국사봉,mentions,,,,O,O
+Entry,E008710,Place,지리산,mentions,,,,O,O
+Entry,E008710,Place,변산,mentions,,,,O,O
+Entry,E008710,Place,종남산,mentions,,,,O,O
+Entry,E008710,Place,무등산,mentions,,,,O,O
+Entry,E008710,Place,추줄산,mentions,,,,O,O
+Entry,E008710,Place,운주산,mentions,,,,O,O
+Entry,E008710,Place,회문산,mentions,,,,O,O
+Entry,E008710,Place,두승산,mentions,,,,O,O
+Entry,E008711,Place,완부시,mentions,,,,O,O
+Entry,E008711,Monk,두월 묵안,mentions,,,,O,O
+Entry,E008712,Place,완부치첩,mentions,,,,O,O
+Entry,E008712,Place,전주 경기전,mentions,,,,O,O
+Entry,E008712,Event,설담이 두월 묵안과 경기전을 구경함,mentions,,,,O,O
+Entry,E008713,Place,완부 서문,mentions,,,,O,O
+Entry,E008714,Place,양정포,mentions,,,,O,O
+Entry,E008715,Place,옥포역,mentions,,,,O,O
+Entry,E008715,Place,구좌리,mentions,,,,O,O
+Entry,E008717,Temple,완주 화암사,mentions,,,,O,O
+Entry,E008717,Monk,원효,mentions,,,,O,O
+Entry,E008717,Monk,의상,mentions,,,,O,O
+Entry,E008717,Monk,윤필,mentions,,,,O,O
+Entry,E008717,Anecdote,원효암·의상암·윤필암 일화,mentions,,,,O,O
+Entry,E008718,Temple,완주 화암사 우화루,mentions,,,,O,O
+Entry,E008718,Monk,원효,mentions,,,,O,O
+Entry,E008718,Monk,의상,mentions,,,,O,O
+Entry,E008718,Monk,윤필,mentions,,,,O,O
+Entry,E008718,Person,성달생,mentions,,,,O,O
+Entry,E008718,Object,관음상,mentions,,,,O,O
+Entry,E008718,Event,설담이 우화루 관음상에 참배함,mentions,,,,O,O
+Entry,E008718,Object,삼세여래상,mentions,,,,O,O
+Entry,E008718,Anecdote,성달생 일화,mentions,,,,O,O
+Entry,E008719,Temple,완주 화암사 향각,mentions,,,,O,O
+Entry,E008719,Monk,도희,mentions,,,,O,O
+Entry,E008719,Monk,대순,mentions,,,,O,O
+Entry,E008719,Monk,두월 묵안,mentions,,,,O,O
+Entry,E008719,Event,설담이 도희와 대순을 만남,mentions,,,,O,O
+Entry,E008720,Temple,완주 화암사 의상암,mentions,,,,O,O
+Entry,E008720,Temple,완주 화암사 윤필암,mentions,,,,O,O
+Entry,E008720,Monk,춘파 상운,mentions,,,,O,O
+Entry,E008720,Monk,금하 광훈,mentions,,,,O,O
+Entry,E008720,Temple,순창 법운암,mentions,,,,O,O
+Entry,E008720,Event,설담이 금하 광훈에게 다과를 대접받음,mentions,,,,O,O
+Entry,E008721,Temple,완주 화암사 향각,mentions,,,,O,O
+Entry,E008722,Monk,춘파 상운,mentions,,,,O,O
+Entry,E008722,Temple,완주 화암사 신실,mentions,,,,O,O
+Entry,E008722,Event,설담이 춘파 상운의 배웅을 받아 떠남,mentions,,,,O,O
+Entry,E008723,Monk,대순,mentions,,,,O,O
+Entry,E008723,Temple,완주 안심사,mentions,,,,O,O
+Entry,E008723,Temple,완주 안심사 사리각,mentions,,,,O,O
+Entry,E008724,Temple,완주 안심사 적설루,mentions,,,,O,O
+Entry,E008725,Temple,완주 안심사 향각,mentions,,,,O,O
+Entry,E008725,Monk,종연,mentions,,,,O,O
+Entry,E008725,Event,설담이 세조 친필을 감상함,mentions,,,,O,O
+Entry,E008725,Event,설담이 종연을 만남,mentions,,,,O,O
+Entry,E008726,Temple,완주 안심사 한산전,mentions,,,,O,O
+Entry,E008726,Temple,완주 백운암,mentions,,,,O,O
+Entry,E008727,Temple,득모암,mentions,,,,O,O
+Entry,E008727,Person,손순목,mentions,,,,O,O
+Entry,E008727,Person,유복통,mentions,,,,O,O
+Entry,E008727,Anecdote,손순목 일화,mentions,,,,O,O
+Entry,E008728,Place,만경대,mentions,,,,O,O
+Entry,E008729,Temple,행도암,mentions,,,,O,O
+Entry,E008730,Place,마정령,mentions,,,,O,O
+Entry,E008730,Temple,중봉암,mentions,,,,O,O
+Entry,E008731,Temple,허통암,mentions,,,,O,O
+Entry,E008731,Place,마천대,mentions,,,,O,O
+Entry,E008733,Temple,완주 대둔암,mentions,,,,O,O
+Entry,E008733,Monk,성월 천일,mentions,,,,O,O
+Entry,E008733,Monk,낙서 사운,mentions,,,,O,O
+Entry,E008733,Monk,자인,mentions,,,,O,O
+Entry,E008733,Monk,원효,mentions,,,,O,O
+Entry,E008733,Monk,의상,mentions,,,,O,O
+Entry,E008733,Monk,윤필,mentions,,,,O,O
+Entry,E008733,Event,설담이 성월 천일을 만남,mentions,,,,O,O
+Entry,E008733,Anecdote,자인 대사 일화,mentions,,,,O,O
+Entry,E008734,Monk,두월 묵안,mentions,,,,O,O
+Entry,E008734,Temple,완주 대둔암,mentions,,,,O,O
+Entry,E008734,Temple,영암 도갑사,mentions,,,,O,O
+Entry,E008734,Monk,설봉 회정,mentions,,,,O,O
+Entry,E008734,Person,김담,mentions,,,,O,O
+Entry,E008734,Person,김복현,mentions,,,,O,O
+Entry,E008734,Temple,대은암,mentions,,,,O,O
+Entry,E008734,Event,설봉 회정의 다비식,mentions,,,,O,O
+Entry,E008734,Event,설담이 하안거를 지냄_2,mentions,,,,O,O
+Entry,E008735,Temple,완주 대둔암,mentions,,,,O,O
+Entry,E008735,Temple,대은암,mentions,,,,O,O
+Entry,E008735,Person,맹명씨,mentions,,,,O,O
+Entry,E008735,Event,설담이 맹명씨를 만남,mentions,,,,O,O
+Entry,E008737,Place,진산읍,mentions,,,,O,O
+Entry,E008738,Place,천등산,mentions,,,,O,O
+Entry,E008739,Temple,완주 신흥사,mentions,,,,O,O
+Entry,E008739,Monk,서봉 명색,mentions,,,,O,O
+Entry,E008739,Event,설담이 서봉 명색을 만남,mentions,,,,O,O
+Entry,E008740,Temple,운문사,mentions,,,,O,O
+Entry,E008741,Temple,운문사 서굴,mentions,,,,O,O
+Entry,E008741,Monk,반룡 처원,mentions,,,,O,O
+Entry,E008741,Event,설담이 반룡 처원과 차담을 나눔,mentions,,,,O,O
+Entry,E008742,Temple,운문사,mentions,,,,O,O
+Entry,E008743,Temple,내둔암,mentions,,,,O,O
+Entry,E008743,Object,사오로 화상,mentions,,,,O,O
+Entry,E008743,Event,설담이 사오로 화상을 구경함,mentions,,,,O,O
+Entry,E008744,Place,위봉성 동문,mentions,,,,O,O
+Entry,E008745,Temple,북암,mentions,,,,O,O
+Entry,E008745,Monk,채근,mentions,,,,O,O
+Entry,E008745,Event,설담이 채근을 만남,mentions,,,,O,O
+Entry,E008747,Temple,완주 송광사 관음전,mentions,,,,O,O
+Entry,E008747,Monk,청파 혜원,mentions,,,,O,O
+Entry,E008747,Monk,긍현,mentions,,,,O,O
+Entry,E008747,Monk,인일,mentions,,,,O,O
+Entry,E008747,Event,설담이 청파 혜원과 긍현을 만남,mentions,,,,O,O
+Entry,E008748,Place,삼천,mentions,,,,O,O
+Entry,E008749,Place,시산,mentions,,,,O,O
+Entry,E008749,Person,박영,mentions,,,,O,O
+Entry,E008749,Event,설담이 박영의 집에 방문함,mentions,,,,O,O
+Entry,E008750,Place,피향정,mentions,,,,O,O
+Entry,E008750,Event,설담이 피향정의 시를 감상함,mentions,,,,O,O
+Entry,E008751,Place,고부 마항리,mentions,,,,O,O
+Entry,E008751,Person,김유옥,mentions,,,,O,O
+Entry,E008751,Event,설담이 김유옥과 그 문하를 방문함,mentions,,,,O,O
+Entry,E008752,Temple,부안 개암사,mentions,,,,O,O
+Entry,E008752,Place,변산,mentions,,,,O,O
+Entry,E008752,Monk,한계 성순,mentions,,,,O,O
+Entry,E008752,Event,설담이 한계 성순을 만남,mentions,,,,O,O
+Entry,E008753,Temple,부안 도솔암,mentions,,,,O,O
+Entry,E008753,Place,지리산,mentions,,,,O,O
+Entry,E008753,Monk,흥파 지순,mentions,,,,O,O
+Entry,E008753,Event,흥파 지순의 죽음,mentions,,,,O,O
+Entry,E008754,Temple,우금굴,mentions,,,,O,O
+Entry,E008754,Monk,경헌,mentions,,,,O,O
+Entry,E008754,Event,설담이 경헌을 만남,mentions,,,,O,O
+Entry,E008755,Place,청림촌,mentions,,,,O,O
+Entry,E008755,Temple,부안 실상사,mentions,,,,O,O
+Entry,E008755,Temple,청림사,mentions,,,,O,O
+Entry,E008756,Place,금강연,mentions,,,,O,O
+Entry,E008757,Temple,부안 실상사,mentions,,,,O,O
+Entry,E008757,Place,사자항,mentions,,,,O,O
+Entry,E008758,Place,삼폭포,mentions,,,,O,O
+Entry,E008759,Temple,부안 월명암,mentions,,,,O,O
+Entry,E008760,Temple,등운암,mentions,,,,O,O
+Entry,E008760,Temple,묘적암,mentions,,,,O,O
+Entry,E008760,Monk,무가,mentions,,,,O,O
+Entry,E008760,Temple,법왕대,mentions,,,,O,O
+Entry,E008760,Monk,부설,mentions,,,,O,O
+Entry,E008760,Temple,하동 칠불암,mentions,,,,O,O
+Entry,E008760,Temple,함양 무주암,mentions,,,,O,O
+Entry,E008761,Temple,월정대,mentions,,,,O,O
+Entry,E008761,Person,김진상,mentions,,,,O,O
+Entry,E008761,Place,월출산,mentions,,,,O,O
+Entry,E008761,Place,승달산,mentions,,,,O,O
+Entry,E008762,Temple,부안 실상사,mentions,,,,O,O
+Entry,E008763,Place,직연폭포,mentions,,,,O,O
+Entry,E008764,Temple,남암,mentions,,,,O,O
+Entry,E008764,Temple,부안 내소사,mentions,,,,O,O
+Entry,E008765,Temple,부안 사자암,mentions,,,,O,O
+Entry,E008765,Monk,명간,mentions,,,,O,O
+Entry,E008765,Temple,왕자암,mentions,,,,O,O
+Entry,E008765,Temple,석자암,mentions,,,,O,O
+Entry,E008765,Monk,진표,mentions,,,,O,O
+Entry,E008765,Place,부풍현,mentions,,,,O,O
+Entry,E008765,Place,칠룡묘,mentions,,,,O,O
+Entry,E008765,Place,각궁시,mentions,,,,O,O
+Entry,E008765,Temple,김제 금산사,mentions,,,,O,O
+Entry,E008765,Temple,비장암,mentions,,,,O,O
+Entry,E008765,Event,설담이 명간을 만남,mentions,,,,O,O
+Entry,E008765,Anecdote,진표 율사 일화,mentions,,,,O,O
+Entry,E008766,Temple,벽송대,mentions,,,,O,O
+Entry,E008766,Monk,벽송 지엄,mentions,,,,O,O
+Entry,E008767,Temple,취연대,mentions,,,,O,O
+Entry,E008767,Place,선운산,mentions,,,,O,O
+Entry,E008767,Place,소요산,mentions,,,,O,O
+Entry,E008767,Place,백양산,mentions,,,,O,O
+Entry,E008767,Person,소응천,mentions,,,,O,O
+Entry,E008768,Temple,부안 내소사,mentions,,,,O,O
+Entry,E008768,Monk,서봉 청민,mentions,,,,O,O
+Entry,E008768,Person,각민,mentions,,,,O,O
+Entry,E008768,Event,내소사 화재,mentions,,,,O,O
+Entry,E008768,Event,서봉 청민이 내소사를 중건함,mentions,,,,O,O
+Entry,E008769,Place,검진,mentions,,,,O,O
+Entry,E008769,Monk,서량,mentions,,,,O,O
+Entry,E008769,Event,설담이 서량을 만남,mentions,,,,O,O
+Entry,E008770,Person,황윤석,mentions,,,,O,O
+Entry,E008770,Event,설담이 황윤석을 만남,mentions,,,,O,O
+Entry,E008770,Place,구수골,mentions,,,,O,O
+Entry,E008771,Temple,구월암,mentions,,,,O,O
+Entry,E008772,Place,개심령,mentions,,,,O,O
+Entry,E008772,Place,내장산,mentions,,,,O,O
+Entry,E008773,Place,하서 선생 수장,mentions,,,,O,O
+Entry,E008773,Place,자포곡,mentions,,,,O,O
+Entry,E008773,Person,백광훈 이손,mentions,,,,O,O
+Entry,E008773,Person,주지번,mentions,,,,O,O
+Entry,E008773,Event,설담이 백광훈의 이손(耳孫)을 만남,mentions,,,,O,O
+Entry,E008774,Place,백양산 청류동,mentions,,,,O,O
+Entry,E008774,Monk,학봉,mentions,,,,O,O
+Entry,E008775,Temple,동암 청심대,mentions,,,,O,O
+Entry,E008776,Temple,장성 운문암,mentions,,,,O,O
+Entry,E008776,Monk,이봉 희영,mentions,,,,O,O
+Entry,E008776,Monk,시경,mentions,,,,O,O
+Entry,E008776,Event,설담이 이봉 희영과 시경을 만남,mentions,,,,O,O
+Entry,E008777,Temple,장성 백양사 백련암,mentions,,,,O,O
+Entry,E008777,Temple,장성 백양사 영천암,mentions,,,,O,O
+Entry,E008777,Temple,장성 백양사 약사암,mentions,,,,O,O
+Entry,E008777,Temple,장성 백양사 물외암,mentions,,,,O,O
+Entry,E008777,Event,"설담이 영천암, 약사암, 물외암 풍경을 감상함",mentions,,,,O,O
+Entry,E008778,Temple,장성 백양사 쌍계루,mentions,,,,O,O
+Entry,E008778,Monk,소요 태능,mentions,,,,O,O
+Entry,E008778,Event,설담이 소요대사 영정에 참배함,mentions,,,,O,O
+Entry,E008778,Event,설담이 쌍계루 현판을 감상함,mentions,,,,O,O
+Entry,E008779,Temple,장성 백양사 향각,mentions,,,,O,O
+Entry,E008779,Monk,소요 태능,mentions,,,,O,O
+Entry,E008779,Event,설담이 소요대사 필적을 감상함,mentions,,,,O,O
+Entry,E008780,Temple,장성 천진암,mentions,,,,O,O
+Entry,E008780,Monk,환월 민숙,mentions,,,,O,O
+Entry,E008780,Event,설담이 환월 민숙을 만남,mentions,,,,O,O
+Entry,E008781,Place,칠립리,mentions,,,,O,O
+Entry,E008781,Person,이고,mentions,,,,O,O
+Entry,E008781,Event,설담이 이고를 위문함,mentions,,,,O,O
+Entry,E008782,Place,천치,mentions,,,,O,O
+Entry,E008783,Place,온계,mentions,,,,O,O
+Entry,E008784,Temple,순창 강천사,mentions,,,,O,O
+Event,설담이 다섯 승려의 배웅을 받아 떠남,Temple,순창 법운암,occursAt,,,,O,O
+Event,설담이 다섯 승려의 배웅을 받아 떠남,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 다섯 승려의 배웅을 받아 떠남,Monk,기,isRelatedTo,,,,O,O
+Event,설담이 다섯 승려의 배웅을 받아 떠남,Monk,우,isRelatedTo,,,,O,O
+Event,설담이 다섯 승려의 배웅을 받아 떠남,Monk,총,isRelatedTo,,,,O,O
+Event,설담이 다섯 승려의 배웅을 받아 떠남,Monk,혜,isRelatedTo,,,,O,O
+Event,설담이 다섯 승려의 배웅을 받아 떠남,Monk,정,isRelatedTo,,,,O,O
+Event,설담이 두월 묵안을 만남,Temple,정읍 상두사,occursIn,,,,O,O
+Event,설담이 두월 묵안을 만남,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 두월 묵안을 만남,Monk,두월 묵안,isRelatedTo,,,,O,O
+Event,설담이 하안거를 지냄_1,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 하안거를 지냄_1,Temple,김제 금산사,occursIn,,,,O,O
+Event,설담이 낙파 회랭을 만남,Temple,감로암,occursIn,,,,O,O
+Event,설담이 낙파 회랭을 만남,Monk,낙파 회랭,isRelatedTo,,,,O,O
+Event,설담이 낙파 회랭을 만남,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 벽월 우일을 만남,Temple,은격암,occursIn,,,,O,O
+Event,설담이 벽월 우일을 만남,Monk,벽월 우일,isRelatedTo,,,,O,O
+Event,설담이 벽월 우일을 만남,Monk,설담 자우,occursIn,,,,O,O
+Event,설담이 두월 묵안과 경기전을 구경함,Place,전주 경기전,occursIn,,,,O,O
+Event,설담이 두월 묵안과 경기전을 구경함,Monk,두월 묵안,isRelatedTo,,,,O,O
+Event,설담이 두월 묵안과 경기전을 구경함,Monk,설담 자우,isRelatedTo,,,,O,O
+Anecdote,원효암·의상암·윤필암 일화,Temple,완주 화암사,occursIn,,,,O,O
+Anecdote,원효암·의상암·윤필암 일화,Monk,원효,isRelatedTo,,,,O,O
+Anecdote,원효암·의상암·윤필암 일화,Monk,의상,isRelatedTo,,,,O,O
+Anecdote,원효암·의상암·윤필암 일화,Monk,윤필,isRelatedTo,,,,O,O
+Anecdote,성달생 일화,Person,성달생,isRelatedTo,,,,O,O
+Anecdote,성달생 일화,Temple,완주 화암사,occursIn,,,,O,O
+Event,설담이 우화루 관음상에 참배함,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 우화루 관음상에 참배함,Temple,완주 화암사 우화루,occursIn,,,,O,O
+Object,관음상,Temple,완주 화암사 우화루,isLocatedIn,,,,O,O
+Object,삼세여래상,Temple,완주 대둔암,isLocatedIn,,,,O,O
+Event,설담이 도희와 대순을 만남,Temple,완주 화암사 향각,occursIn,,,,O,O
+Event,설담이 도희와 대순을 만남,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 도희와 대순을 만남,Monk,도희,isRelatedTo,,,,O,O
+Event,설담이 도희와 대순을 만남,Monk,대순,isRelatedTo,,,,O,O
+Event,설담이 금하 광훈에게 다과를 대접받음,Temple,완주 화암사 윤필암,occursIn,,,,O,O
+Event,설담이 금하 광훈에게 다과를 대접받음,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 금하 광훈에게 다과를 대접받음,Monk,금하 광훈,isRelatedTo,,,,O,O
+Event,설담이 춘파 상운의 배웅을 받아 떠남,Temple,완주 화암사 신실,occursIn,,,,O,O
+Event,설담이 춘파 상운의 배웅을 받아 떠남,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 춘파 상운의 배웅을 받아 떠남,Monk,춘파 상운,isRelatedTo,,,,O,O
+Event,설담이 세조 친필을 감상함,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 세조 친필을 감상함,Temple,완주 안심사 향각,occursIn,,,,O,O
+Event,설담이 종연을 만남,Temple,완주 안심사 향각,occursIn,,,,O,O
+Event,설담이 종연을 만남,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 종연을 만남,Monk,종연,isRelatedTo,,,,O,O
+Anecdote,성달생 일화,Temple,득모암,occursIn,,,,O,O
+Event,설담이 성월 천일을 만남,Temple,완주 대둔암,occursIn,,,,O,O
+Event,설담이 성월 천일을 만남,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 성월 천일을 만남,Monk,성월 천일,isRelatedTo,,,,O,O
+Event,설봉 회정의 다비식,Monk,설봉 회정,isRelatedTo,,,,O,O
+Event,설봉 회정의 다비식,Time,1738년,occursIn,,,,O,O
+Work,SD0088,Event,설봉 회정의 다비식,mentions,,,,O,O
+Event,설담이 하안거를 지냄_2,Temple,영암 도갑사,occursIn,,,,O,O
+Event,설담이 하안거를 지냄_2,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 맹명씨를 만남,Temple,대은암,occursIn,,,,O,O
+Event,설담이 맹명씨를 만남,Person,맹명씨,isRelatedTo,,,,O,O
+Event,설담이 맹명씨를 만남,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 서봉 명색을 만남,Temple,완주 신흥사,occursIn,,,,O,O
+Event,설담이 서봉 명색을 만남,Monk,서봉 명색,isRelatedTo,,,,O,O
+Event,설담이 서봉 명색을 만남,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 반룡 처원과 차담을 나눔,Temple,운문사 서굴,occursIn,,,,O,O
+Event,설담이 반룡 처원과 차담을 나눔,Monk,반룡 처원,isRelatedTo,,,,O,O
+Event,설담이 반룡 처원과 차담을 나눔,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 사오로 화상을 구경함,Temple,내둔암,occursIn,,,,O,O
+Object,사오로 화상,Temple,내둔암,isLocatedIn,,,,O,O
+Event,설담이 사오로 화상을 구경함,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 채근을 만남,Temple,북암,occursIn,,,,O,O
+Event,설담이 채근을 만남,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 채근을 만남,Monk,채근,isRelatedTo,,,,O,O
+Event,설담이 청파 혜원과 긍현을 만남,Temple,완주 송광사,occursIn,,,,O,O
+Event,설담이 청파 혜원과 긍현을 만남,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 청파 혜원과 긍현을 만남,Monk,청파 혜원,isRelatedTo,,,,O,O
+Event,설담이 청파 혜원과 긍현을 만남,Monk,긍현,isRelatedTo,,,,O,O
+Event,설담이 박영의 집에 방문함,Place,시산,occursIn,,,,O,O
+Event,설담이 박영의 집에 방문함,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 박영의 집에 방문함,Person,박영,isRelatedTo,,,,O,O
+Event,설담이 피향정의 시를 감상함,Place,피향정,occursIn,,,,O,O
+Event,설담이 피향정의 시를 감상함,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 김유옥과 그 문하를 방문함,Place,고부 마항리,occursIn,,,,O,O
+Event,설담이 김유옥과 그 문하를 방문함,Person,김유옥,isRelatedTo,,,,O,O
+Event,설담이 김유옥과 그 문하를 방문함,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 한계 성순을 만남,Place,부안 개암사,occursIn,,,,O,O
+Event,설담이 한계 성순을 만남,Monk,한계 성순,isRelatedTo,,,,O,O
+Event,설담이 한계 성순을 만남,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,흥파 지순의 죽음,Temple,부안 도솔암,occursIn,,,,O,O
+Event,설담이 경헌을 만남,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 경헌을 만남,Temple,우금굴,occursIn,,,,O,O
+Event,설담이 경헌을 만남,Monk,경헌,isRelatedTo,,,,O,O
+Event,설담이 명간을 만남,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 명간을 만남,Temple,부안 사자암,occursIn,,,,O,O
+Event,설담이 명간을 만남,Monk,명간,isRelatedTo,,,,O,O
+Anecdote,진표 율사 일화,Monk,진표,isRelatedTo,,,,O,O
+Anecdote,진표 율사 일화,Place,칠룡묘,isRelatedTo,,,,O,O
+Anecdote,진표 율사 일화,Temple,김제 금산사,isRelatedTo,,,,O,O
+Anecdote,진표 율사 일화,Place,각궁시,isRelatedTo,,,,O,O
+Anecdote,진표 율사 일화,Temple,기족암,isRelatedTo,,,,O,O
+Anecdote,진표 율사 일화,Temple,비장암,isRelatedTo,,,,O,O
+Anecdote,진표 율사 일화,Record,진록사전,isRelatedTo,,,,O,O
+Anecdote,진표 율사 일화,Anecdote,고달사 창건 설화,isRelatedTo,,,,O,O
+Anecdote,진표 율사 일화,Anecdote,우렁각시 설화,isRelatedTo,,,,O,O
+Event,설담이 서량을 만남,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 서량을 만남,Place,검진,occursIn,,,,O,O
+Event,설담이 서량을 만남,Monk,서량,isRelatedTo,,,,O,O
+Event,설담이 황윤석을 만남,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 황윤석을 만남,Place,구수골,occursIn,,,,O,O
+Event,설담이 황윤석을 만남,Person,황윤석,isRelatedTo,,,,O,O
+Event,설담이 백광훈의 이손(耳孫)을 만남,Person,백광훈 이손,isRelatedTo,,,,O,O
+Event,설담이 백광훈의 이손(耳孫)을 만남,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 백광훈의 이손(耳孫)을 만남,Place,자포곡,occursIn,,,,O,O
+Event,설담이 이봉 희영과 시경을 만남,Temple,장성 운문암,occursIn,,,,O,O
+Event,설담이 이봉 희영과 시경을 만남,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 이봉 희영과 시경을 만남,Monk,이봉 희영,isRelatedTo,,,,O,O
+Event,설담이 이봉 희영과 시경을 만남,Monk,시경,isRelatedTo,,,,O,O
+Event,"설담이 영천암, 약사암, 물외암 풍경을 감상함",Monk,설담 자우,isRelatedTo,,,,O,O
+Event,"설담이 영천암, 약사암, 물외암 풍경을 감상함",Temple,장성 백양사 백련암,occursIn,,,,O,O
+Event,설담이 소요대사 영정에 참배함,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 소요대사 영정에 참배함,Temple,장성 백양사,occursIn,,,,O,O
+Event,설담이 소요대사 영정에 참배함,Monk,소요 태능,isRelatedTo,,,,O,O
+Event,설담이 쌍계루 현판을 감상함,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 쌍계루 현판을 감상함,Temple,장성 백양사 쌍계루,occursIn,,,,O,O
+Event,설담이 소요대사 필적을 감상함,Temple,장성 백양사 향각,occursIn,,,,O,O
+Event,설담이 소요대사 필적을 감상함,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 소요대사 필적을 감상함,Monk,소요 태능,isRelatedTo,,,,O,O
+Event,설담이 환월 민숙을 만남,Temple,장성 천진암,occursIn,,,,O,O
+Event,설담이 환월 민숙을 만남,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담이 환월 민숙을 만남,Monk,환월 민숙,isRelatedTo,,,,O,O
+Event,설담이 이고를 위문함,Place,칠립리,occursIn,,,,O,O
+Event,설담이 이고를 위문함,Monk,설담 자우,isRelatedTo,,,,O,O
+Record,서역중화해동불조원류,Temple,완주 송광사,isPublishedIn,,,,O,O
+Record,서역중화해동불조원류,Time,1764년,isPublishedAt,,,,O,O
+Event,불조원류 간행,Temple,완주 송광사,occursIn,,,,O,O
+Event,불조원류 간행,Time,1764년,occursAt,,,,O,O
+Event,불조원류 간행,Record,서역중화해동불조원류,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,해월 경율,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,금하 광훈,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,궤능,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,대붕,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,월영 대찰,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,풍계 도선,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,두활,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,민익,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,사선,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,상린,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,춘파 상운,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,연곡 선수,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,선찰,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,정성 성심,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,순행,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,옥종,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,월하 자휘,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,정원,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,정현,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,벽하 지탄,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,찬우,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,사암 채영,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,반룡 처원,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,척옥,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,화월 쾌현,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,쾌혜,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,영파 탄연,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,은파 탈몽,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,금봉 태기,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,학순,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,청암 학종,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,성암 행름,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,환영 향원,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,청파 혜원,isRelatedTo,,,,O,O
+Event,불조원류 간행,Monk,봉암 회혜,isRelatedTo,,,,O,O
+Record,불설장수멸죄호제동자다라니경,Temple,완주 송광사,isPublishedIn,,,,O,O
+Record,불설장수멸죄호제동자다라니경,Time,1768년,isPublishedAt,,,,O,O
+Event,장수경 간행,Temple,완주 송광사,occursIn,,,,O,O
+Event,장수경 간행,Time,1768년,occursAt,,,,O,O
+Event,장수경 간행,Record,불설장수멸죄호제동자다라니경,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,긍현,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,월영 대찰,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,두월 묵안,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,환봉 묵혜,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,설파 상언,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,춘파 상운,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,성우,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,서운 시연,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,월암 시준,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,영곡 영우,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,연담 유일,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,정안,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,완암 정진,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,찬명,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,반룡 처원,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,영파 탄연,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,은파 탈몽,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,금봉 태기,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,태학,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,포일,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,함월 해원,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,성암 행름,isRelatedTo,,,,O,O
+Event,장수경 간행,Monk,봉암 회혜,isRelatedTo,,,,O,O
+Monk,청허 휴정,Monk,소요 태능,hasDisciple,,,,O,O
+Monk,청허 휴정,Monk,편양 언기,hasDisciple,,,,O,O
+Monk,청허 휴정,Monk,정관 일선,hasDisciple,,,,O,O
+Monk,청허 휴정,Monk,송운 유정,hasDisciple,,,,O,O
+Monk,소요 태능,Monk,제월 수일,hasDisciple,,,,O,O
+Monk,제월 수일,Monk,화월 현옥,hasDisciple,,,,O,O
+Monk,화월 현옥,Monk,모은 지훈,hasDisciple,,,,O,O
+Monk,모은 지훈,Monk,설담 자우,hasDisciple,,,,O,O
+Monk,설담 자우,Monk,나암 승제,hasDisciple,,,,O,O
+Monk,소요 태능,Monk,해운 경열,hasDisciple,,,,O,O
+Monk,해운 경열,Monk,모운 삼성,hasDisciple,,,,O,O
+Monk,모운 삼성,Monk,설곡 수우,hasDisciple,,,,O,O
+Monk,설곡 수우,Monk,설봉 자징,hasDisciple,,,,O,O
+Monk,설봉 자징,Monk,백파 진수,hasDisciple,,,,O,O
+Monk,백파 진수,Monk,환월 민숙,hasDisciple,,,,O,O
+Monk,환월 민숙,Monk,서량,hasDisciple,,,,O,O
+Monk,해운 경열,Monk,취여 삼우,hasDisciple,,,,O,O
+Monk,취여 삼우,Monk,화악 문신,hasDisciple,,,,O,O
+Monk,화악 문신,Monk,설봉 회정,hasDisciple,,,,O,O
+Monk,설봉 회정,Monk,이봉 희영,hasDisciple,,,,O,O
+Monk,정관 일선,Monk,임성 충언,hasDisciple,,,,O,O
+Monk,임성 충언,Monk,원응 지근,hasDisciple,,,,O,O
+Monk,원응 지근,Monk,추계 유문,hasDisciple,,,,O,O
+Monk,추계 유문,Monk,무경 자수,hasDisciple,,,,O,O
+Monk,무경 자수,Monk,양심 영봉,hasDisciple,,,,O,O
+Monk,양심 영봉,Monk,반룡 처원,hasDisciple,,,,O,O
+Monk,편양 언기,Monk,청엄 석민,hasDisciple,,,,O,O
+Monk,청엄 석민,Monk,운봉 영우,hasDisciple,,,,O,O
+Monk,운봉 영우,Monk,운파 의준,hasDisciple,,,,O,O
+Monk,운파 의준,Monk,서봉 청민,hasDisciple,,,,O,O
+Monk,서봉 청민,Monk,삼경 철관,hasDisciple,,,,O,O
+Monk,삼경 철관,Monk,흥파 지순,hasDisciple,,,,O,O
+Monk,편양 언기,Monk,풍담 의심,hasDisciple,,,,O,O
+Monk,풍담 의심,Monk,월저 도안,hasDisciple,,,,O,O
+Monk,월저 도안,Monk,설암 추붕,hasDisciple,,,,O,O
+Monk,설암 추붕,Monk,벽허 원조,hasDisciple,,,,O,O
+Monk,벽허 원조,Monk,영허 성준,hasDisciple,,,,O,O
+Monk,영허 성준,Monk,금파 행우,hasDisciple,,,,O,O
+Monk,금파 행우,Monk,한계 성순,hasDisciple,,,,O,O
+Monk,설암 추붕,Monk,금파 일영,hasDisciple,,,,O,O
+Monk,금파 일영,Monk,낙파 회랭,hasDisciple,,,,O,O
+Monk,금파 일영,Monk,용암 해화,hasDisciple,,,,O,O
+Monk,용암 해화,Monk,두월 묵안,hasDisciple,,,,O,O
+Monk,두월 묵안,Monk,벽월 우일,hasDisciple,,,,O,O
+Monk,용암 해화,Monk,연파 성활,hasDisciple,,,,O,O
+Monk,풍담 의심,Monk,월담 설제,hasDisciple,,,,O,O
+Monk,월담 설제,Monk,환성 지안,hasDisciple,,,,O,O
+Monk,환성 지안,Monk,호암 체정,hasDisciple,,,,O,O
+Monk,호암 체정,Monk,연담 유일,hasDisciple,,,,O,O
+Monk,호암 체정,Monk,설파 상언,hasDisciple,,,,O,O
+Monk,환성 지안,Monk,금계 원우,hasDisciple,,,,O,O
+Monk,금계 원우,Monk,춘파 상운,hasDisciple,,,,O,O
+Monk,춘파 상운,Monk,서봉 명색,hasDisciple,,,,O,O
+Monk,춘파 상운,Monk,금하 광훈,hasDisciple,,,,O,O
+Monk,설봉 관성,Monk,해월 경율,hasDisciple,,,,O,O
+Monk,함영 쌍규,Monk,설봉 관성,hasDisciple,,,,O,O
+Monk,운파 현신,Monk,함영 쌍규,hasDisciple,,,,O,O
+Monk,상봉 정원,Monk,운파 현신,hasDisciple,,,,O,O
+Monk,풍담 의심,Monk,상봉 정원,hasDisciple,,,,O,O
+Monk,월파 태눌,Monk,풍계 도선,hasDisciple,,,,O,O
+Monk,환암 선흠,Monk,월파 태눌,hasDisciple,,,,O,O
+Monk,운파 의준,Monk,환암 선흠,hasDisciple,,,,O,O
+Monk,보월 한웅,Monk,연곡 선수,hasDisciple,,,,O,O
+Monk,청하 삼인,Monk,보월 한웅,hasDisciple,,,,O,O
+Monk,월담 설제,Monk,청하 삼인,hasDisciple,,,,O,O
+Monk,취봉 보청,Monk,월하 자휘,hasDisciple,,,,O,O
+Monk,상봉 정원,Monk,취봉 보청,hasDisciple,,,,O,O
+Monk,선월 축습,Monk,정성 성심,hasDisciple,,,,O,O
+Monk,무경 자수,Monk,선월 축습,hasDisciple,,,,O,O
+Monk,금계 원우,Monk,벽하 지탄,hasDisciple,,,,O,O
+Monk,금파 행우,Monk,사암 채영,hasDisciple,,,,O,O
+Monk,환월 처준,Monk,화월 쾌현,hasDisciple,,,,O,O
+Monk,홍파 인형,Monk,환월 처준,hasDisciple,,,,O,O
+Monk,현은 형오,Monk,홍파 인형,hasDisciple,,,,O,O
+Monk,월담 설제,Monk,현은 형오,hasDisciple,,,,O,O
+Monk,성암 행름,Monk,쾌혜,hasDisciple,,,,O,O
+Monk,추월 인호,Monk,청암 학종,hasDisciple,,,,O,O
+Monk,완허 청안,Monk,추월 인호,hasDisciple,,,,O,O
+Monk,취운 종일,Monk,완허 청안,hasDisciple,,,,O,O
+Monk,수월 사순,Monk,취운 종일,hasDisciple,,,,O,O
+Monk,소요 태능,Monk,수월 사순,hasDisciple,,,,O,O
+Monk,송곡 대총,Monk,환영 향원,hasDisciple,,,,O,O
+Monk,무경 자수,Monk,송곡 대총,hasDisciple,,,,O,O
+Monk,금계 원우,Monk,청파 혜원,hasDisciple,,,,O,O
+Monk,선월 축습,Monk,봉암 회혜,hasDisciple,,,,O,O
+Monk,월영 대찰,Monk,성암 행름,hasDisciple,,,,O,O
+Monk,홍파 인형,Monk,월영 대찰,hasDisciple,,,,O,O
+Monk,환성 지안,Monk,함월 해원,hasDisciple,,,,O,O
+Monk,정허 쾌민,Monk,금봉 태기,hasDisciple,,,,O,O
+Monk,선월 축습,Monk,정허 쾌민,hasDisciple,,,,O,O
+Monk,진곡 취일,Monk,은파 탈몽,hasDisciple,,,,O,O
+Monk,무경 자수,Monk,진곡 취일,hasDisciple,,,,O,O
+Monk,금계 원우,Monk,영파 탄연,hasDisciple,,,,O,O
+Monk,호암 체정,Monk,영곡 영우,hasDisciple,,,,O,O
+Monk,현은 형오,Monk,월암 시준,hasDisciple,,,,O,O
+Monk,호암 체정,Monk,서운 시연,hasDisciple,,,,O,O
+Monk,고송 회경,Monk,환봉 묵혜,hasDisciple,,,,O,O
+Monk,금파 일영,Monk,고송 회경,hasDisciple,,,,O,O
+Record,여암유고,Person,YA0001,contains,,,,O,O
+Record,YA0001,Work,신경준,hasWriter,,,,O,O
+Work,YA0001,Temple,순창 법운암,mentions,,,,O,O
+Work,YA0001,Monk,휴암 최한,mentions,,,,O,O
+Work,YA0001,Event,휴암 최한이 법운암을 창건함,mentions,,,,O,O
+Work,YA0001,Monk,총혜,mentions,,,,O,O
+Event,휴암 최한이 법운암을 창건함,Temple,순창 법운암,isRelatedTo,,,,O,O
+Event,휴암 최한이 법운암을 창건함,Monk,휴암 최한,isRelatedTo,,,,O,O
+Monk,모은 지훈,Monk,휴암 최한,hasDisciple,,,,O,O
+Monk,휴암 최한,Monk,총혜,hasDisciple,,,,O,O
+Record,여암유고,Work,YA0002,contains,,,,O,O
+Work,YA0002,Writer,신경준,hasWriter,,,,O,O
+Work,YA0002,Temple,부안 내소사,mentions,,,,O,O
+Work,YA0002,Monk,서봉 청민,mentions,,,,O,O
+Work,YA0002,Event,내소사 화재,mentions,,,,O,O
+Work,YA0002,Event,서봉 청민이 내소사를 중건함,mentions,,,,O,O
+Work,YA0002,Event,내선과 여천 등 여덟 비구가 내소사 단청을 완성함,mentions,,,,O,O
+Event,내소사 화재,Temple,부안 내소사,occursIn,,,,O,O
+Event,내소사 화재,Time,1743년,occursAt,,,,O,O
+Event,서봉 청민이 내소사를 중건함,Monk,서봉 청민,contains,,,,O,O
+Event,서봉 청민이 내소사를 중건함,Temple,부안 내소사,occursIn,,,,O,O
+Event,서봉 청민이 내소사를 중건함,Time,1744년,occursAt,,,,O,O
+Event,내선과 여천 등 여덟 비구가 내소사 단청을 완성함,Monk,내선,isRelatedTo,,,,O,O
+Event,내선과 여천 등 여덟 비구가 내소사 단청을 완성함,Monk,여천,isRelatedTo,,,,O,O
+Event,내선과 여천 등 여덟 비구가 내소사 단청을 완성함,Temple,부안 내소사,occursIn,,,,O,O
+Event,내선과 여천 등 여덟 비구가 내소사 단청을 완성함,Time,1780년,occursAt,,,,O,O
+Person,김담,Person,김복현,hasSon,,,,O,O
+Person,김담,Person,맹명씨,hasDescendant,,,,O,O
+Person,신장,Person,신숙주,hasSon,,,,O,O
+Person,신장,Person,신말주,hasSon,,,,O,O
+Person,신말주,Person,순창 설씨부인,hasWife,,,,O,O
+Person,순창 설씨부인,Record,설씨부인권선문,hasWriter,,,,O,O
+Record,설씨부인권선문,Temple,순창 강천사,isRelatedTo,,,,O,O
+Record,설씨부인권선문,Time,1482년,isWrittenAt,,,,O,O
+Monk,원효,Person,설총,hasSon,,,,O,O
+Person,설총,Person,순창 설씨부인,hasDescendant,,,,O,O
+Temple,김제 금산사 송대,Temple,김제 금산사,isLocatedIn,,,,O,O
+Temple,감로암 비전,Temple,감로암,isLocatedIn,,,,O,O
+Temple,완주 화암사 우화루,Temple,완주 화암사,isLocatedIn,,,,O,O
+Temple,완주 화암사 향각,Temple,완주 화암사,isLocatedIn,,,,O,O
+Temple,완주 화암사 의상암,Temple,완주 화암사,isLocatedIn,,,,O,O
+Temple,완주 화암사 윤필암,Temple,완주 화암사,isLocatedIn,,,,O,O
+Temple,완주 화암사 신실,Temple,완주 화암사,isLocatedIn,,,,O,O
+Temple,완주 안심사 사리각,Temple,완주 안심사,isLocatedIn,,,,O,O
+Temple,완주 안심사 적설루,Temple,완주 안심사,isLocatedIn,,,,O,O
+Temple,완주 안심사 향각,Temple,완주 안심사,isLocatedIn,,,,O,O
+Temple,완주 안심사 한산전,Temple,완주 안심사,isLocatedIn,,,,O,O
+Temple,망휴암 장륙전,Temple,망휴암,isLocatedIn,,,,O,O
+Temple,운문사 서굴,Temple,운문사,isLocatedIn,,,,O,O
+Temple,완주 송광사 관음전,Temple,완주 송광사,isLocatedIn,,,,O,O
+Temple,장성 백양사 쌍계루,Temple,장성 백양사,isLocatedIn,,,,O,O
+Temple,장성 백양사 향각,Temple,장성 백양사,isLocatedIn,,,,O,O
+Temple,장성 백양사 백련암,Temple,장성 백양사,isLocatedIn,,,,O,O
+Temple,장성 백양사 영천암,Temple,장성 백양사,isLocatedIn,,,,O,O
+Temple,장성 백양사 약사암,Temple,장성 백양사,isLocatedIn,,,,O,O
+Temple,장성 백양사 물외암,Temple,장성 백양사,isLocatedIn,,,,O,O
+Object,백양사 소요대사 부도,Temple,장성 백양사,isLocatedIn,,,,O,O
+Object,백양사 소요대사 부도,Monk,소요 태능,isRelatedTo,,,,O,O
+Work,SD0088,Event,설담 자우가 설봉 회정에게 수학함,mentions,,,,O,O
+Event,설담 자우가 설봉 회정에게 수학함,Monk,설담 자우,isRelatedTo,,,,O,O
+Event,설담 자우가 설봉 회정에게 수학함,Monk,설봉 회정,isRelatedTo,,,,O,O
+Event,설담 자우가 설봉 회정에게 수학함,Time,1736년,occursIn,,,,O,O
+Record,동국이상국집,Work,SK0001,hasPart,,,,O,O
+Record,매월당시집,Work,MW0001,hasPart,,,,O,O
+Work,SK0001,Place,불사의방,mentions,,,,O,O
+Work,MW0001,Place,불사의방,mentions,,,,O,O
+Work,SK0001,Monk,진표,mentions,,,,O,O
+Monk,진표,Place,불사의방,isRelatedTo,,,,O,O
+Place,불사의방,Place,변산 의상봉,isLocatedIn,,,,O,O
+Place,변산 의상봉,Place,변산,isLocatedIn,,,,O,O
+Work,SK0001,Person,이규보,hasWriter,,,,O,O
+Work,MW0001,Person,김시습,hasWriter,,,,O,O
+Place,하서 선생 수장,Person,김인후,isRelatedTo,,,,O,O
